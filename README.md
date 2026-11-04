@@ -5,7 +5,7 @@
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Interactive%20UI-FF4B4B.svg)](https://streamlit.io/)
 [![pytest](https://img.shields.io/badge/pytest-Passing-brightgreen.svg)](https://pytest.org/)
 
-An end-to-end, production-grade Machine Learning pipeline and interactive application to identify fraudulent credit card transactions under severe class imbalance (~0.17% fraud prevalence). Built for the **CodSoft Data Science Internship (Task 5)**.
+An end-to-end, production-grade Machine Learning pipeline and interactive application to identify fraudulent credit card transactions under severe class imbalance (~0.17% fraud prevalence).
 
 ---
 
